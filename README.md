@@ -85,7 +85,7 @@
 A global ecommerce platform that helps users purchase and ship products internationally with ease.  
 *Tech:* React, Node.js, PostgreSQL, Stripe API  
 
-#### 🔹 [Network Monitor Extension](https://github.com/bonsakel/network-monitor)
+#### 🔹 [Network Monitor Extension](https://github.com/bonsakel/network-monitor-extension)
 A Chrome extension for tracking, analyzing, and blocking suspicious network requests.  
 *Tech:* TypeScript, Web Crypto API, Chrome Extensions API  
 

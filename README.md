@@ -89,7 +89,7 @@ A global ecommerce platform that helps users purchase and ship products internat
 A Chrome extension for tracking, analyzing, and blocking suspicious network requests.  
 *Tech:* TypeScript, Web Crypto API, Chrome Extensions API  
 
-#### 🔹 [Gamified E-Learning Platform](https://noveraed.com/)
+#### 🔹 [Gamified E-Learning Platform](https://github.com/bonsakel/gamified-elearning)
 An interactive learning platform with auto-grading and real-time analytics.  
 *Tech:* React, Firebase, RESTful APIs  
 

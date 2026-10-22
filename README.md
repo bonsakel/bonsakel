@@ -19,20 +19,6 @@
 * former Python TA, helped 50+ students learn to code
 * DataFest 2025 **Best Visualization**. Dean's List (4x). Bell Tower Scholar.
 
-### 🔨 Building
-
-* [Beleav.com](https://beleav.com), a multi-tenant SaaS platform with an AI inbox
-* an online code judge that runs every submission in its own Docker container
-* [Perchex](https://perchex.com), a global ecommerce platform
-* [Network Monitor Extension](https://github.com/bonsakel/network-monitor-extension), a Chrome extension that blocks suspicious requests
-
-### ✨ Current interests
-
-* ▸ Building with LLMs and AI tools
-* ▸ Backend systems and cloud computing
-* ▸ Teaching others to code
-* ▸ Music
-
 
 <div align="center">
 
